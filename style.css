@@ -1,0 +1,21 @@
+body{
+background-image: url("shop1.jpg");
+-moz-background-size: cover;
+background-repeat:no-repeat;
+
+}
+
+h1{
+font-size: 60px;
+font-family: Helvetica,serif;
+text-align: center;
+
+}
+
+#lefty{
+margin-left:20%;
+}
+
+input{
+
+}
